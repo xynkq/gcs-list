@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kangseoyeon",
+  "private_key_id": "b411c8352aedd57b176a0774d06da8835dce9160",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP+33BHd1t5lfy\ntIz9jWt9X2plrvJfSa9ireo47SI8Nsgleh0QSWofPXy9MBTsToNFNAlCX4KPFzBd\n/seWuSTc5bTb7moDKYZye8XTdyAvdhiv81SLmmnwwTJc9jGThaI1mh7+fpm0qFwa\ncl8ljg4IaeTigvjkTPE7Bd1icQDDdZgK4qgAlMZpjjbJ2wJA5z8YbVNTMjLsY2mn\nyQ1ZrUmz+000VKfOMTtcK6JvG4zZ4gpVhfQttUK9bl6Vaky+einAf4Gf4PPb+B4W\n7EN8qYwtq//omwLlPjA7tiOxYoGlCNexAnv2YCrA60jVjRdUIHdQqMw1wyZA34dW\nZmtTYdk5AgMBAAECggEAAbTPfaPFavRmflBAOTL4Jx7URvdIzRf+qgbr6AGnXpUY\neUOSNM2quDePQWzBOdsUX/SjACS7ySQTOoIvmFX2g8rCpsHtpA8AJ7T06jI3qmFZ\nUdWOOQL69tsEPcJV+nQwi34IiQ/4Ki+Yvy13CF4s+/avxl1KthzHfIjPcyei2Pen\nOHeoaEKXqUYq1pUX8ULsOQHrBoNgaA+PPYjHJC04sFQ9fWVN2L5uEU//NKCaEm9B\nnUMcv3B5LOfcAeQDaOtlFo2rGNxS2zNUFQV44sOKyqcjiZcXLn8Yl+eC89+WaKL7\nWpPDCM5Q8gaNO7KVavUlhn96TO6z7ODZYADpAV2JAQKBgQDxOreWeaLD/p+VxcQ6\nzKs3J9A7Hch5CpReTgRTbZZzfvvVAsBqBZTghJm5r/XbLe1yqyZXAToYm+W2ZsrB\nIgGkU3DjONh6DD7MsUJgvWKS2A1Oln1BGMEnrQR5uIhtpQvFBGK1Xk1BHaMpFlag\nIZxLe5JX4PLuArLtGsmQdchvoQKBgQDct6BBp8xuuMgq5VTnBvJ57V9XK4pMzGYm\n6+6fHy4SkoMgcQCvFIBaVHHC/mfcWPPGjkDRwv33eweqroi06G1oaBgmKl00C/Ip\nE6nuD9tr1J8UAk2jNKEEluWhYIzPfS8SP9o1GoaSgHI3wJHT8acEKlBSLAXue7Pc\npNxVvCvimQKBgEx62z3f7pTJI3tuqhoiTZ49By3W8Xo+um9zuLdipTKU7e7I4ow6\nnMrZ/4r5mK8WzpNuY8dt4idvNdMwn9O/nlmlAsNngGqhez+Wa38UTC5WRVHHMIr0\n+DhGCIc21Do++45JJ6ps7X1ZkiMyq+A1B8J+uRUXgq2nOWcm+QTN8vBBAoGABxlw\n8iuvi7At4BNYU8YJbpqQAoHIBQheEMpt9nhORxKnXRfFadxC9KTas+by+Ed0L+LL\nevPGr3spl/fdNdR0EHOoszGRpebsdx3GzX19FU7VfxND5AgBVeB0qmgsn0/rf67G\nGgcsZPH0uo5bInIXaS7jPoFj/3PDKUm0PJ2826ECgYEAg4VrSJpLtotlB/jlnOi8\nknEvIz2UPST45VmKSj9NjLQUQf4y4A3j+fS8DZhFpAoo0Ax6Rlbc4xUOcU3ZB48Q\nsHtLF/p3O7JhBRSSeVzy/OYgB/jnCc3BykxRxdEFtCltXmEIvGP2RwO/YtV1/LQ8\nE0Vw9UvstjbtOXrLbtmItCc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-explorer@kangseoyeon.iam.gserviceaccount.com",
+  "client_id": "113016806033959802445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-explorer%40kangseoyeon.iam.gserviceaccount.com"
+}

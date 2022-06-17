@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google-cloud/compute": "^3.3.0",
+    "@google-cloud/resource": "^1.2.1",
+    "@google-cloud/storage": "^6.1.0",
+    "dotenv": "^16.0.1",
+    "googleapis": "^103.0.0",
+    "package-lock.json": "^1.0.0"
+  },
+  "name": "gcs-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://xynkq@github.com/xynkq/gcs-list.git",
+  "author": "Seoyeon Kang <xynkq1@gmail.com>",
+  "license": "MIT"
+}
